@@ -72,4 +72,4 @@
 
 [submodule "components/nimble/nimble"]
 	path = components/nimble/nimble
-	url = https://github.com/espressif/esp-nimble.git
+	url = https://github.com/natureglobal/esp-nimble
